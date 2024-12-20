@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate developer with a love for creating cool p
 - 😎 here you can check out my [guns.lol](https://guns.lol/mi7) and [fakecrime.bio](https://fakecrime.bio/mi7)
 - 🌱 I’m learning **HTML and CSS**.
 - 💬 Ask me about **C#, Roblox, WinForms, and Game Modding**.
-- 📫 How to reach me: You can contact me on [Discord](https://discord.gg/jHMhSpdcxm) or at ryzyka.greenguy@gmail.com
+- 📫 How to reach me: You can contact me on [Discord](https://discord.gg/jHMhSpdcxm) or at [My Email](mailto:ryzyka.greenguy@gmail.com)
 
 ## 🚀 Projects
 
@@ -21,7 +21,7 @@ an 74% UNC roblox executor that is not yet released, we're hoping to get higher 
 
 ## 🌐 Fuck with me
 - [Discord](https://discord.gg/jHMhSpdcxm)
-- [Email](ryzyka.greenguy@gmail.com)
+- [Email](mailto:ryzyka.greenguy@gmail.com)
 - [Neco-Ware Website](https://neco-ware.vercel.app)
 
 also check out these cool things that i stole from other readme.md files
