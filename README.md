@@ -1,7 +1,7 @@
 # Hi there, I'm mi7 (aka gg) 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Go+Fuck+Yourself+Please)](https://git.io/typing-svg)
-
+---
 Welcome to my GitHub! I'm a passionate developer with a love for creating cool projects, exploring new technologies, and solving problems. Here, you'll find my work on various projects, including websites, apps (not clearly), and more.
 
 ## 🧑‍💻 About Me
