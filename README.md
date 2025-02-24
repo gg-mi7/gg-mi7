@@ -5,7 +5,7 @@
 Welcome to my GitHub! I'm a passionate developer with a love for creating cool projects, exploring new technologies, and solving problems. Here, you'll find my work on various projects, including websites, apps (not clearly), and more.
 
 ## 🧑‍💻 About Me
-- 🔭 I’m currently working on **Neco-Ware V2**.
+- 🔭 I’m currently working on **Neco-Ware GG**.
 - 😎 here you can check out my [guns.lol](https://guns.lol/mi7) and [fakecrime.bio](https://fakecrime.bio/mi7)
 - 🌱 I’m learning **HTML and CSS**.
 - 💬 Ask me about **C#, Roblox, WinForms, and Game Modding**.
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a passionate developer with a love for creating cool p
 ## 🚀 Projects
 
 ### [Neco-Ware](https://neco-ware.vercel.app)
-an 74% UNC roblox executor that is not yet released, we're hoping to get higher UNC
+ass executor, not even released, dont use it lmao
 
 ## 📂 Sum Goofy Shit I Use
 - **Languages**: C#, Lua, HTML, CSS
