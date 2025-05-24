@@ -10,14 +10,18 @@ Welcome to my GitHub! I'm a passionate developer with a love for creating cool p
 - 🌱 I’m learning **HTML and CSS**.
 - 💬 Ask me about **C#, Roblox, WinForms, and Game Modding**.
 - 📫 How to reach me: You can contact me on [Discord](https://discord.gg/jHMhSpdcxm) or at [My Email](mailto:ryzyka.greenguy@gmail.com)
+- 🤝 Member & Founder of NecoTeam
 
 ## 🚀 Projects
 
 ### [Neco-Ware](https://neco-ware.vercel.app)
 ass executor, not even released, dont use it lmao
 
+### [NecoGPT](https://neco-ware.vercel.app)
+ass AI Assistant for Neco-Ware GG, goofy release, dont use it lolz
+
 ## 📂 Sum Goofy Shit I Use
-- **Languages**: C#, Lua, HTML, CSS
+- **Languages**: C#, Lua, python
 - **Frameworks & Tools**: WinForms, Guna2UI, Roblox Studio
 - **Other Tools**: Git, GitHub, Visual Studio
 
